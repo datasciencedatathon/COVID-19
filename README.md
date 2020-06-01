@@ -45,5 +45,5 @@ Day 2: tbd*
 
 ### Organizers contact 
 
-Sepi Dibay: dibay@uw.edu <br/>
+Sepideh(Sepi) Dibay: dibay@uw.edu <br/>
 Deepthi Hegde: dhegde@uw.edu
