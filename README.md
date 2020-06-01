@@ -1,37 +1,49 @@
-## Welcome to GitHub Pages
+### About this hackathon 
 
-You can use the [editor on GitHub](https://github.com/datasciencedatathon/COVID-19/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Have you found yourself wondering how you can play a part in combating COVID-19 recently, all from the comforts of your home? Ponder no more! In response to the current events, the **University of Washington's MSDS students and alumni** proudly present the first ever online Data Science Hackathon, **sponsored by [UW MSDS](https://www.washington.edu/datasciencemasters/)**. Come join us and help the efforts of the open source community and ongoing research by putting your Data Science caps on!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### When and where? 
+June 13th and 14th, 2020.
+*Online zoom links coming soon*
 
-### Markdown
+### Steps to participate in the hackathon
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Register [here](https://docs.google.com/forms/d/e/1FAIpQLSefB4qKEO6NkoqK--p3shr2PymNue3IfpLIR-e7ahVRXgrFng/viewform)
+- Join the [slack channel](https://join.slack.com/t/covid19online-jv13298/shared_invite/zt-dmnm7yv8-weycz5JK5gvlQQ9fLB6oAQ) to meet people and form groups.`*` 
 
-```markdown
-Syntax highlighted code block
+`*` *All parts of the event will happen online. Thus, we highly recommend that you register and join the slack channel as soon as possible, to have sufficient time to form groups.* 
 
-# Header 1
-## Header 2
-### Header 3
+### Datasets
+*Coming soon (on 06/06/2020)*
 
-- Bulleted
-- List
+### Awards
 
-1. Numbered
-2. List
+- Best storytelling
+- Best visualization 
+- Best prediction model
 
-**Bold** and _Italic_ and `Code` text
+**_Prizes upto $1500 to be won!!_**
 
-[Link](url) and ![Image](src)
-```
+### Judges
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- **Anna Talman Rapp**, Program Officer at Bill & Melinda Gates Foundation
+- **Duncan Wadsworth**, Data Scientist at Microsoft
+- **Tim Randolph**, Associate Member at Fred Hutchinson Cancer Research Center 
+- **Ying Li**, Chief Scientist at Giving Tech Labs
 
-### Jekyll Themes
+### Rules
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/datasciencedatathon/COVID-19/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- You can participate either individually or in teams of 2-4 members. 
+- One person cannot participate in more than one team.
+- Each team can only make one submission as a single sharable link.
 
-### Support or Contact
+### Schedule
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+*Day 1: tbd <br/>
+Day 2: tbd*
+
+
+### Organizers contact 
+
+Sepi Dibay: dibay@uw.edu <br/>
+Deepthi Hegde: dhegde@uw.edu
