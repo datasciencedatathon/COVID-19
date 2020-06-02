@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Hackathon
+COVID-19 Hackathon
 ---
 
 ### About this hackathon:
