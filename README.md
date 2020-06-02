@@ -3,6 +3,13 @@
 
 Have you found yourself wondering how you can play a part in combating COVID-19 recently, all from the comforts of your home? Ponder no more! In response to the current events, the **University of Washington's MSDS students and alumni** proudly present the first ever online Data Science Hackathon, **sponsored by** <a href="https://www.washington.edu/datasciencemasters/" target="_blank"><b>UW MSDS</b></a>. Come join us and help the efforts of the open source community and ongoing research by putting your Data Science caps on!
 
+```markdown
+
+
+
+![Cumulative Confirmed Cases by John Hopkins University](src=COVID-19)
+```
+
 ### When and where? 
 June 13th and 14th, 2020.
 *Online zoom links coming soon*
