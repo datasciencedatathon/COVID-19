@@ -7,7 +7,7 @@ Have you found yourself wondering how you can play a part in combating COVID-19 
 
 
 
-![Cumulative Confirmed Cases by John Hopkins University](src=COVID-19)
+![Cumulative Confirmed Cases by John Hopkins University](COVID-19)
 ```
 
 ### When and where? 
