@@ -43,7 +43,11 @@ June 13th and 14th, 2020.
 Day 2: tbd*
 
 
+### COVID-19 Hackathon workshop and some useful resources:
+
 ### Organizers contact 
 
 Sepideh(Sepi) Dibay: dibay@uw.edu <br/>
 Deepthi Hegde: dhegde@uw.edu
+
+`*` *Please contact us if you have any questions regarding this event.
