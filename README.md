@@ -9,9 +9,8 @@ June 13th and 14th, 2020.
 
 ### Steps to participate in the hackathon
 
-- Register [here](https://docs.google.com/forms/d/e/1FAIpQLSefB4qKEO6NkoqK--p3shr2PymNue3IfpLIR-e7ahVRXgrFng/viewform){:target="_blank"}
-- Join the [slack channel](https://join.slack.com/t/covid19online-jv13298/shared_invite/zt-dmnm7yv8-weycz5JK5gvlQQ9fLB6oAQ){:target="_blank"} 
-to meet people and form groups.`*`
+- Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSefB4qKEO6NkoqK--p3shr2PymNue3IfpLIR-e7ahVRXgrFng/viewform" target="_blank">here</a>
+- Join the <a href="https://join.slack.com/t/covid19online-jv13298/shared_invite/zt-dmnm7yv8-weycz5JK5gvlQQ9fLB6oAQ" target="_blank">slack channel</a> to meet people and form groups.`*`
 
 `*` *All parts of the event will happen online. Thus, we highly recommend that you register and join the slack channel as soon as possible, to have sufficient time to form groups.* 
 
