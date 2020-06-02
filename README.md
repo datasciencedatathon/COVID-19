@@ -1,6 +1,4 @@
 
-## COVID-19 Hackathon
-
 ### About the hackathon
 Have you found yourself wondering how you can play a part in combating COVID-19 recently, all from the comforts of your home? Ponder no more! In response to the current events, the **University of Washington's MSDS students and alumni** proudly present the first ever online Data Science Hackathon, **sponsored by [UW MSDS](https://www.washington.edu/datasciencemasters/)**. Come join us and help the efforts of the open source community and ongoing research by putting your Data Science caps on!
 
@@ -10,10 +8,10 @@ June 13th and 14th, 2020.
 
 ### Steps to participate in the hackathon
 
-- Register [here](https://docs.google.com/forms/d/e/1FAIpQLSefB4qKEO6NkoqK--p3shr2PymNue3IfpLIR-e7ahVRXgrFng/viewform)
-- Join the [slack channel](https://join.slack.com/t/covid19online-jv13298/shared_invite/zt-dmnm7yv8-weycz5JK5gvlQQ9fLB6oAQ) to meet people and form groups.`*` 
+- Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSefB4qKEO6NkoqK--p3shr2PymNue3IfpLIR-e7ahVRXgrFng/viewform" target="_blank">here</a>
+- Join the <a href="https://join.slack.com/t/covid19online-jv13298/shared_invite/zt-dmnm7yv8-weycz5JK5gvlQQ9fLB6oAQ" target="_blank">slack channel</a> to meet people and form groups.*
 
-`*` *All parts of the event will happen online. Thus, we highly recommend that you register and join the slack channel as soon as possible, to have sufficient time to form groups.* 
+* *All parts of the event will happen online. Thus, we highly recommend that you register and join the slack channel as soon as possible, to have sufficient time to form groups.* 
 
 ### Datasets
 *Coming soon (on 06/06/2020)*
