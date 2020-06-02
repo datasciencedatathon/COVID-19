@@ -45,6 +45,7 @@ Day 2: tbd*
 
 
 ### COVID-19 Hackathon workshop and some useful resources:
+*Coming soon*
 
 ### Organizers contact 
 
