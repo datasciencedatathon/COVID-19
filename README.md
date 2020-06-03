@@ -12,7 +12,7 @@ June 13th and 14th, 2020.
 - Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSefB4qKEO6NkoqK--p3shr2PymNue3IfpLIR-e7ahVRXgrFng/viewform" target="_blank">here</a>
 - Join the <a href="http://covid19online-jv13298.slack.com" target="_blank">slack workspace</a> to meet people and form groups.
 
-`*` All parts of the event will happen online. Thus, we highly recommend that you register and join the slack channel as soon as possible, to have sufficient time to form groups.* 
+*All parts of the event will happen online. Thus, we highly recommend that you register and join the slack channel as soon as possible, to have sufficient time to form groups.* 
 
 ### Datasets
 *Coming soon (on 06/06/2020)*
