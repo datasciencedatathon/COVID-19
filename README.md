@@ -43,8 +43,10 @@ June 13th and 14th, 2020.
 *Day 1: tbd <br/>
 Day 2: tbd*
 
+### Workshop
+- Intro to NLP by <a href="https://gjena.github.io/about.html" target="_blank">Grishma Jena</a>, Data Scientist at IBM
 
-### COVID-19 Hackathon workshop and some useful resources:
+### Useful resources
 *Coming soon*
 
 ### Organizers contact 
