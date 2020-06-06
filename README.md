@@ -46,7 +46,8 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 **Day 1 (Saturday June 13th):**
  - 10am - 11am: Event kickoff 
  - 11am - 12pm: NLP workshop for those who are interested
- - 5pm: Dinner and dialouge
+ - 5pm: Dinner and dialouge<br/>
+ 
 **Day 2 (Sunday June 14th):** 
  - 10.30am:  Check in 
  - 2pm : Submission deadline 
