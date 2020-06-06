@@ -15,7 +15,10 @@ June 13th and 14th, 2020.
 *All parts of the event will happen online. So we highly encourage conversations on slack to form groups and share resources.* 
 
 ### Datasets
-*Coming soon (on 06/06/2020)*
+
+In the spirit of open ended research and creativity, you may bring datasets of your interest as long as they are publicly available. Here are a few that we think might be interesting -  
+- <a href="https://github.com/OxCGRT/covid-policy-tracker" target="_blank">OxCGRT: Covid Policy Tracker</a> 
+- <a href="https://github.com/nytimes/covid-19-data" target="_blank">nytimes: COVID-19 Data</a> 
 
 ### Awards
 
