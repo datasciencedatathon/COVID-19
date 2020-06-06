@@ -5,7 +5,7 @@ Have you found yourself wondering how you can play a part in combating COVID-19 
 
 ### When and where? 
 June 13th and 14th, 2020.<br/>
-This is a virtual event. Teams will work together throughout the 2-day event using tools such as Github, Zoom, and Slack. 
+This is a virtual event. Teams will work together throughout the 2-day event using tools such as Github, Zoom, and Slack.<br/>
 `*` **All times are Pacific Standard Time**<br/>
 `*`**Online zoom links coming soon**
 
