@@ -5,7 +5,8 @@ Have you found yourself wondering how you can play a part in combating COVID-19 
 
 ### When and where? 
 June 13th and 14th, 2020.
-*Online zoom links coming soon*
+`*` **All times are Pacific Standard Time**
+`*`**Online zoom links coming soon**
 
 ### Steps to participate in the hackathon
 
@@ -53,7 +54,7 @@ In the spirit of open ended research and creativity, you may bring datasets of y
  - 2pm : Submission deadline 
  - 5pm : Award ceremony and closing 
 
-`*`All times are Pacific Standard Time
+`*` **All times are Pacific Standard Time**
 
 ### Workshop
 
