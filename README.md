@@ -4,8 +4,8 @@ Have you found yourself wondering how you can play a part in combating COVID-19 
 
 
 ### When and where? 
-June 13th and 14th, 2020.
-`*` **All times are Pacific Standard Time**
+June 13th and 14th, 2020.<br/>
+`*` **All times are Pacific Standard Time**<br/>
 `*`**Online zoom links coming soon**
 
 ### Steps to participate in the hackathon
