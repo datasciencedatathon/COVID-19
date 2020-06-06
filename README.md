@@ -43,8 +43,16 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 
 ### Schedule
 
-*Day 1: tbd <br/>
-Day 2: tbd*
+**Day 1 (Saturday June 13th):**<br/>
+ 10am - 11am: Event kickoff <br/>
+ 11am - 12pm: NLP workshop for those who are interested<br/>
+ 5pm: Dinner and dialouge<br/>
+**Day 2 (Sunday June 14th):** <br/>
+ 10.30am:  Check in <br/>
+ 2pm : Submission deadline <br/>
+ 5pm : Award ceremony and closing <br/>*
+
+`*`All times are Pacific Standard Time
 
 ### Workshop
 
