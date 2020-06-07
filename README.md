@@ -7,7 +7,7 @@ Have you found yourself wondering how you can play a part in combating COVID-19 
 June 13th and 14th, 2020.<br/>
 This is a virtual event. Teams will work together throughout the 2-day event using tools such as Github, Zoom, and Slack.<br/>
 `*` **All times are Pacific Standard Time**<br/>
-`*`**Online zoom links coming soon**
+`*` **Online zoom links coming soon**
 
 ### Steps to participate in the hackathon
 
@@ -47,13 +47,13 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 
 **Day 1 (Saturday June 13th):**
  - 10am - 11am: Event kickoff 
- - 11am - 12pm: NLP workshop for those who are interested
+ - 11am - 12pm: Intro to NLP workshop (optional)
  - 5pm: Dinner and dialouge<br/>
  
 **Day 2 (Sunday June 14th):** 
- - 10.30am:  Check in 
- - 2pm : Submission deadline 
- - 5pm : Award ceremony and closing 
+ - 10.30am: Check in 
+ - 2pm: Submission deadline 
+ - 5pm: Award ceremony and closing 
 
 `*` **All times are Pacific Standard Time**
 
