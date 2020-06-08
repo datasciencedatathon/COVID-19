@@ -89,6 +89,9 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 | Impact and take-aways  | 20  |
 | Documentation  | 20  |
 
+
+
+<br/>
 ### Schedule
 
 **Day 1 (Saturday June 13th):**
