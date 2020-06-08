@@ -92,9 +92,9 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 ### Schedule
 
 **Day 1 (Saturday June 13th):**
- - 10am - 11am: Event kickoff 
- - 11am - 12pm: Intro to NLP workshop (optional)
- - 5pm: Virtual Dinner and dialouge<br/>
+ - 10:00 am - 11am: Event kickoff 
+ - 11:00 am - 12pm: Intro to NLP workshop (optional)
+ - 5:00 pm: Virtual Dinner and dialouge<br/>
  
 **Day 2 (Sunday June 14th):** 
  - 10.30 am: Check in 
