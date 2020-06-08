@@ -55,9 +55,10 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 | Problem Solving  | 20  |
 | Comprehensive take-aways  | 20  |
 | Reproducibility  | 20  |
-<br/>
-<br/>
 
+
+<br/>
+<br/>
 **Best Prediction Model (numbers heavy)**
 
 | Criteria  | Score |
@@ -67,9 +68,9 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 | Explanation of choice of model  | 20  |
 | Model evaluation  | 20  |
 | Explainability and model interpretation  | 20  |
-<br/>
-<br/>
 
+<br/>
+<br/>
 **Best Interactive Visualization/Dashboard (visual heavy)**
 
 | Criteria  | Score |
