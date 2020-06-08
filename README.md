@@ -46,6 +46,7 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 ### Judging criteria
 
 **Best Storytelling/Data-Science Process (text heavy)**
+
 | Criteria  | Score |
 | :------------- | :------------- |
 | Clear hypotheses and assumptions  | 20 |
@@ -56,6 +57,7 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 
 
 **Best Prediction Model (numbers heavy)**
+
 | Criteria  | Score |
 | :------------- | :------------- |
 | Problem setup and metric definition  | 20 |
@@ -66,6 +68,7 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 
 
 **Best Interactive Visualization/Dashboard (visual heavy)**
+
 | Criteria  | Score |
 | :------------- | :------------- |
 | Simplicity and ease of navigation  | 20 |
