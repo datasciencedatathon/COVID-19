@@ -49,7 +49,7 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 
 
 
-| Criteria| Score |
+| Criteria| Points available  |
 | :------------- | :------------- |
 | Clear hypotheses and assumptions  | 20 |
 | Exploratory Data Analysis  | 20  |
@@ -65,7 +65,7 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 
 
 
-| Criteria| Score |
+| Criteria| Points available |
 | :------------- | :------------- |
 | Problem setup and metric definition  | 20 |
 | Quality of features  | 20  |
@@ -81,7 +81,7 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 
 
 
-| Criteria| Score |
+| Criteria| Points available  |
 | :------------- | :------------- |
 | Simplicity and ease of navigation  | 20 |
 | Choice of encodings and colors  | 20  |
