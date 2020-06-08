@@ -58,6 +58,9 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 | Reproducibility  | 20  |
 
 
+
+<br/>
+
 **Best Prediction Model (numbers heavy)**
 
 
@@ -72,6 +75,7 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 
 
 
+<br/>
 **Best Interactive Visualization/Dashboard (visual heavy)**
 
 
