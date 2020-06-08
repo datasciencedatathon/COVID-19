@@ -22,7 +22,7 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 - <a href="https://github.com/OxCGRT/covid-policy-tracker" target="_blank">OxCGRT: Covid Policy Tracker</a> 
 - <a href="https://github.com/nytimes/covid-19-data" target="_blank">nytimes: COVID-19 Data</a> 
 
-### Awards
+### Awards categories
 
 - Best storytelling
 - Best visualization 
@@ -42,6 +42,38 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 - You can participate either individually or in teams of 2-4 members. 
 - One person cannot participate in more than one team.
 - Each team can only make one submission as a single sharable link.
+
+### Judging criteria
+
+- **Category I: Best Storytelling/Data-Science Process (text heavy)**
+
+| Criteria  | Score |
+| ------------- | ------------- |
+| Clear hypotheses and assumptions  | 20 |
+| Exploratory Data Analysis  | 20  |
+| Problem Solving  | 20  |
+| Comprehensive take-aways  | 20  |
+| Reproducibility  | 20  |
+
+- **Category II: Best Prediction Model (numbers heavy)**
+
+| Criteria  | Score |
+| ------------- | ------------- |
+| Problem setup and metric definition  | 20 |
+| Quality of features  | 20  |
+| Explanation of choice of model  | 20  |
+| Model evaluation  | 20  |
+| Explainability and model interpretation  | 20  |
+
+- **Category III: Best Interactive Visualization/Dashboard (visual heavy)**
+
+| Criteria  | Score |
+| ------------- | ------------- |
+| Simplicity and ease of navigation  | 20 |
+| Choice of encodings and colors  | 20  |
+| Ease of understanding   | 20  |
+| Impact and take-aways  | 20  |
+| Documentation  | 20  |
 
 ### Schedule
 
