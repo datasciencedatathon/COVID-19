@@ -97,9 +97,9 @@ In the spirit of open ended research and creativity, you may bring datasets of y
  - 5pm: Virtual Dinner and dialouge<br/>
  
 **Day 2 (Sunday June 14th):** 
- - 10.30am: Check in 
- - 2pm: Submission deadline 
- - 5pm: Award ceremony and closing 
+ - 10.30 am: Check in 
+ - 2:00 pm: Submission deadline 
+ - 5:00 pm: Award ceremony and closing 
 
 `*` **All times are Pacific Standard Time**
 
