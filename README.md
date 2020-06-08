@@ -55,9 +55,6 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 | Reproducibility  | 20  |
 
 
-<br/>
-<br/>
-
 **Best Prediction Model (numbers heavy)**
 | Criteria  | Score |
 | :------------- | :------------- |
@@ -67,9 +64,6 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 | Model evaluation  | 20  |
 | Explainability and model interpretation  | 20  |
 
-
-<br/>
-<br/>
 
 **Best Interactive Visualization/Dashboard (visual heavy)**
 | Criteria  | Score |
