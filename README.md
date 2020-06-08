@@ -69,8 +69,7 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 | Model evaluation  | 20  |
 | Explainability and model interpretation  | 20  |
 
-<br/>
-<br/>
+
 **Best Interactive Visualization/Dashboard (visual heavy)**
 
 | Criteria  | Score |
