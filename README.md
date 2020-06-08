@@ -47,8 +47,9 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 
 - **Category I: Best Storytelling/Data-Science Process (text heavy)**
 
+
 | Criteria  | Score |
-| ------------- | ------------- |
+| :------------- | :------------- |
 | Clear hypotheses and assumptions  | 20 |
 | Exploratory Data Analysis  | 20  |
 | Problem Solving  | 20  |
@@ -58,7 +59,7 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 - **Category II: Best Prediction Model (numbers heavy)**
 
 | Criteria  | Score |
-| ------------- | ------------- |
+| :------------- | :------------- |
 | Problem setup and metric definition  | 20 |
 | Quality of features  | 20  |
 | Explanation of choice of model  | 20  |
@@ -68,7 +69,7 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 - **Category III: Best Interactive Visualization/Dashboard (visual heavy)**
 
 | Criteria  | Score |
-| ------------- | ------------- |
+| :------------- | :------------- |
 | Simplicity and ease of navigation  | 20 |
 | Choice of encodings and colors  | 20  |
 | Ease of understanding   | 20  |
