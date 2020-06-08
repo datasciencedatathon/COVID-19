@@ -6,15 +6,13 @@ Have you found yourself wondering how you can play a part in combating COVID-19 
 ### When and where? 
 June 13th and 14th, 2020.<br/>
 This is a virtual event. Teams will work together throughout the 2-day event using tools such as Github, Zoom, and Slack.<br/>
-`*` **All times are Pacific Standard Time**<br/>
 `*` **Online zoom meeting ID: 940 8345 1381**
+
 
 ### Steps to participate in the hackathon
 
 - Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSefB4qKEO6NkoqK--p3shr2PymNue3IfpLIR-e7ahVRXgrFng/viewform" target="_blank">here</a>
-- You will receive an email to join the hackathon slack workspace. Teams will be formed oganically through conversations in this workspace.  
-
-*We highly encourage conversations on slack to form groups and share resources.* 
+- You will receive an email to join the hackathon's slack workspace. Teams will be formed oganically through conversations in this workspace.  
 
 ### Datasets
 
@@ -24,9 +22,9 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 
 ### Awards categories
 
-- Best storytelling
-- Best visualization 
-- Best prediction model
+- Best Data-Science Process/Storytelling
+- Best Prediction Model
+- Best Interactive Visualization/Dashboard
 
 **_Prizes upto $1500 to be won!!_**
 
@@ -41,13 +39,11 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 
 - You can participate either individually or in teams of 2-4 members. 
 - One person cannot participate in more than one team.
-- Each team can only make one submission as a single sharable link.
+- Each team can only make one submission as a single github link. All contents of submission should be within the repository. 
 
 ### Judging criteria
 
-**Best Storytelling/Data-Science Process**
-
-
+**Best Data-Science Process/Storytelling**
 
 | Criteria| Points |
 | :------------- | :------------- |
@@ -63,8 +59,6 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 
 **Best Prediction Model**
 
-
-
 | Criteria| Points |
 | :------------- | :------------- |
 | Problem setup and metric definition  | 20 |
@@ -78,8 +72,6 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 <br/>
 
 **Best Interactive Visualization/Dashboard**
-
-
 
 | Criteria| Points |
 | :------------- | :------------- |
