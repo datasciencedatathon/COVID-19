@@ -92,6 +92,7 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 
 
 <br/>
+
 ### Schedule
 
 **Day 1 (Saturday June 13th):**
