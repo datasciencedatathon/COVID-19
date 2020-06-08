@@ -14,7 +14,7 @@ This is a virtual event. Teams will work together throughout the 2-day event usi
 - Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSefB4qKEO6NkoqK--p3shr2PymNue3IfpLIR-e7ahVRXgrFng/viewform" target="_blank">here</a>
 - You will receive an email to join the hackathon slack workspace. Teams will be formed oganically through conversations in this workspace.  
 
-*All parts of the event will happen online. So we highly encourage conversations on slack to form groups and share resources.* 
+*We highly encourage conversations on slack to form groups and share resources.* 
 
 ### Datasets
 
@@ -45,11 +45,11 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 
 ### Judging criteria
 
-**Best Storytelling/Data-Science Process (text heavy)**
+**Best Storytelling/Data-Science Process**
 
 
 
-| Criteria| Points available  |
+| Criteria| Points |
 | :------------- | :------------- |
 | Clear hypotheses and assumptions  | 20 |
 | Exploratory Data Analysis  | 20  |
@@ -61,11 +61,11 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 
 <br/>
 
-**Best Prediction Model (numbers heavy)**
+**Best Prediction Model**
 
 
 
-| Criteria| Points available |
+| Criteria| Points |
 | :------------- | :------------- |
 | Problem setup and metric definition  | 20 |
 | Quality of features  | 20  |
@@ -77,11 +77,11 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 
 <br/>
 
-**Best Interactive Visualization/Dashboard (visual heavy)**
+**Best Interactive Visualization/Dashboard**
 
 
 
-| Criteria| Points available  |
+| Criteria| Points |
 | :------------- | :------------- |
 | Simplicity and ease of navigation  | 20 |
 | Choice of encodings and colors  | 20  |
@@ -96,20 +96,22 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 ### Schedule
 
 **Day 1 (Saturday June 13th):**
- - 10:00 am - 11am: Event kickoff 
- - 11:00 am - 12pm: Intro to NLP workshop (optional)
+ - 10:00 am - 11:00 am: Event kickoff 
+ - 11:00 am - 12:00 pm: Intro to NLP (optional)
+ - 12:00 pm - 12:45 pm: Intro to Time-Series (optional)
  - 5:00 pm: Virtual Dinner and dialouge<br/>
  
 **Day 2 (Sunday June 14th):** 
- - 10.30 am: Check in 
+ - 10.30 am: Check-in 
  - 2:00 pm: Submission deadline 
  - 5:00 pm: Award ceremony and closing 
 
 `*` **All times are Pacific Standard Time**
 
-### Workshop
+### Seminars
 
 - Intro to NLP by <a href="https://gjena.github.io/about.html" target="_blank">Grishma Jena</a>, Data Scientist at IBM
+- Intro to Time-series by Stanislav Panev, Project Scientist at CMU
 
 ### Useful resources
 *Coming soon*
