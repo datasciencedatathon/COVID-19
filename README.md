@@ -45,7 +45,7 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 
 ### Judging criteria
 
-**Category I: Best Storytelling/Data-Science Process (text heavy)**
+**Best Storytelling/Data-Science Process (text heavy)**
 
 
 | Criteria  | Score |
@@ -56,7 +56,9 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 | Comprehensive take-aways  | 20  |
 | Reproducibility  | 20  |
 
-**Category II: Best Prediction Model (numbers heavy)**
+
+
+**Best Prediction Model (numbers heavy)**
 
 | Criteria  | Score |
 | :------------- | :------------- |
@@ -66,7 +68,9 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 | Model evaluation  | 20  |
 | Explainability and model interpretation  | 20  |
 
-**Category III: Best Interactive Visualization/Dashboard (visual heavy)**
+
+
+**Best Interactive Visualization/Dashboard (visual heavy)**
 
 | Criteria  | Score |
 | :------------- | :------------- |
