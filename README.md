@@ -14,11 +14,19 @@ This is a virtual event. Teams will work together throughout the 2-day event usi
 - Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSefB4qKEO6NkoqK--p3shr2PymNue3IfpLIR-e7ahVRXgrFng/viewform" target="_blank">here</a>
 - You will receive an email to join the hackathon's slack workspace. Teams will be formed oganically through conversations in this workspace.  
 
+
 ### Datasets
 
 In the spirit of open ended research and creativity, you may bring datasets of your interest as long as they are publicly available. Here are a few that we think might be interesting -  
 - <a href="https://github.com/OxCGRT/covid-policy-tracker" target="_blank">OxCGRT: Covid Policy Tracker</a> 
 - <a href="https://github.com/nytimes/covid-19-data" target="_blank">nytimes: COVID-19 Data</a> 
+
+
+### Seminars
+
+- Intro to NLP by <a href="https://gjena.github.io/about.html" target="_blank">Grishma Jena</a>, Data Scientist at IBM
+- Intro to Time-series by Stanislav Panev, Project Scientist at CMU
+
 
 ### Awards categories
 
@@ -28,6 +36,7 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 
 **_Prizes upto $1500 to be won!!_**
 
+
 ### Judges
 
 - **Anna Talman Rapp**, Program Officer at Bill & Melinda Gates Foundation
@@ -35,11 +44,13 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 - **Tim Randolph**, Associate Member at Fred Hutchinson Cancer Research Center 
 - **Ying Li**, Chief Scientist at Giving Tech Labs
 
+
 ### Rules
 
 - You can participate either individually or in teams of 2-4 members. 
 - One person cannot participate in more than one team.
 - Each team can only make one submission as a single github link. All contents of submission should be within the repository. 
+
 
 ### Judging criteria
 
@@ -85,6 +96,7 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 
 <br/>
 
+
 ### Schedule
 
 **Day 1 (Saturday June 13th):**
@@ -100,13 +112,10 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 
 `*` **All times are Pacific Standard Time**
 
-### Seminars
-
-- Intro to NLP by <a href="https://gjena.github.io/about.html" target="_blank">Grishma Jena</a>, Data Scientist at IBM
-- Intro to Time-series by Stanislav Panev, Project Scientist at CMU
 
 ### Useful resources
 *Coming soon*
+
 
 ### Organizers contact 
 
