@@ -51,6 +51,9 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 - One person cannot participate in more than one team.
 - Each team can only make one submission as a single github link. All contents of submission should be within the repository. 
 
+### Submission Details
+
+Submission should be a link to the github repository containing all submission files including a README and a short presentation focussing on insights and take-aways. 
 
 ### Judging criteria
 
