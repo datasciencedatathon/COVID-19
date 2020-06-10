@@ -55,7 +55,7 @@ In the spirit of open ended research and creativity, you may bring datasets of y
 
 ### Submission Details
 
-Submission should be a link to the github repository containing all submission files including a README and a short presentation focussing on insights and take-aways. 
+Submissions should be in the form of a link to the github repository containing all submission files including a README and a short presentation focussing on insights and take-aways of the project. 
 
 ### Judging criteria
 
