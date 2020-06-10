@@ -6,6 +6,7 @@ Have you found yourself wondering how you can play a part in combating COVID-19 
 ### When and where? 
 June 13th and 14th, 2020.<br/>
 This is a virtual event. Teams will work together throughout the 2-day event using tools such as Github, Zoom, and Slack.<br/>
+
 `*` **Online zoom meeting ID: 940 8345 1381**
 
 
@@ -14,7 +15,7 @@ This is a virtual event. Teams will work together throughout the 2-day event usi
 - Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSefB4qKEO6NkoqK--p3shr2PymNue3IfpLIR-e7ahVRXgrFng/viewform" target="_blank">here</a>
 - You will receive an email to join the hackathon's slack workspace. Teams will be formed oganically through conversations in this workspace.  
 
-`*` Registrations open until 5 pm PST on 12th June. 
+`*` Registrations open until 5:00 pm PST on 12th June. 
 
 ### Datasets
 
