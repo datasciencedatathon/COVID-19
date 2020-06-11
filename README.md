@@ -15,7 +15,7 @@ This is a virtual event. Teams will work together throughout the 2-day event usi
 - Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSefB4qKEO6NkoqK--p3shr2PymNue3IfpLIR-e7ahVRXgrFng/viewform" target="_blank">here</a>
 - You will receive an email to join the hackathon's slack workspace. Teams will be formed oganically through conversations in this workspace.  
 
-Registrations open until 5:00 pm PST on 12th June. 
+_Registrations open until 5:00 pm PST on 12th June._ 
 
 ### Datasets
 
@@ -115,7 +115,7 @@ Submissions should be in the form of a link to the github repository containing 
  - 1:30 pm: Submission deadline 
  - 5:30 pm: Award ceremony and closing 
 
-**All times are Pacific Standard Time**
+**_All times are Pacific Standard Time_**
 
 
 ### Organizers contact 
@@ -123,4 +123,4 @@ Submissions should be in the form of a link to the github repository containing 
 Sepideh(Sepi) Dibay: dibay@uw.edu <br/>
 Deepthi Hegde: dhegde@uw.edu
 
-* Please contact us if you have any questions regarding this event.
+_Please contact us if you have any questions regarding this event._
