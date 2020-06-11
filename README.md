@@ -112,8 +112,8 @@ Submissions should be in the form of a link to the github repository containing 
  
 **Day 2 (Sunday June 14th):** 
  - 10.30 am: Check-in 
- - 2:00 pm: Submission deadline 
- - 5:00 pm: Award ceremony and closing 
+ - 1:30 pm: Submission deadline 
+ - 5:30 pm: Award ceremony and closing 
 
 `*` **All times are Pacific Standard Time**
 
