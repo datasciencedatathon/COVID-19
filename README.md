@@ -7,7 +7,7 @@ Have you found yourself wondering how you can play a part in combating COVID-19 
 June 13th and 14th, 2020.<br/>
 This is a virtual event. Teams will work together throughout the 2-day event using tools such as Github, Zoom, and Slack.<br/>
 
-* **Online zoom meeting ID: 940 8345 1381**
+**Online zoom meeting ID: 940 8345 1381**
 
 
 ### Steps to participate in the hackathon
@@ -15,7 +15,7 @@ This is a virtual event. Teams will work together throughout the 2-day event usi
 - Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSefB4qKEO6NkoqK--p3shr2PymNue3IfpLIR-e7ahVRXgrFng/viewform" target="_blank">here</a>
 - You will receive an email to join the hackathon's slack workspace. Teams will be formed oganically through conversations in this workspace.  
 
-`*` Registrations open until 5:00 pm PST on 12th June. 
+Registrations open until 5:00 pm PST on 12th June. 
 
 ### Datasets
 
@@ -108,18 +108,14 @@ Submissions should be in the form of a link to the github repository containing 
  - 10:00 am - 11:00 am: Event kickoff 
  - 11:00 am - 12:00 pm: Intro to NLP (optional)
  - 12:00 pm - 12:45 pm: Intro to Time-Series (optional)
- - 5:00 pm: Virtual Dinner and dialouge<br/>
+ - 5:00 pm: Virtual dinner and dialouge<br/>
  
 **Day 2 (Sunday June 14th):** 
  - 10.30 am: Check-in 
  - 1:30 pm: Submission deadline 
  - 5:30 pm: Award ceremony and closing 
 
-`*` **All times are Pacific Standard Time**
-
-
-### Useful resources
-*Coming soon*
+**All times are Pacific Standard Time**
 
 
 ### Organizers contact 
@@ -127,4 +123,4 @@ Submissions should be in the form of a link to the github repository containing 
 Sepideh(Sepi) Dibay: dibay@uw.edu <br/>
 Deepthi Hegde: dhegde@uw.edu
 
-`*` Please contact us if you have any questions regarding this event.
+* Please contact us if you have any questions regarding this event.
