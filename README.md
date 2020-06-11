@@ -7,7 +7,7 @@ Have you found yourself wondering how you can play a part in combating COVID-19 
 June 13th and 14th, 2020.<br/>
 This is a virtual event. Teams will work together throughout the 2-day event using tools such as Github, Zoom, and Slack.<br/>
 
-`*` **Online zoom meeting ID: 940 8345 1381**
+* **Online zoom meeting ID: 940 8345 1381**
 
 
 ### Steps to participate in the hackathon
