@@ -13,7 +13,7 @@ This is a virtual event. Teams will work together throughout the 2-day event usi
 ### Steps to participate in the hackathon
 
 - Register <a href="https://docs.google.com/forms/d/e/1FAIpQLSefB4qKEO6NkoqK--p3shr2PymNue3IfpLIR-e7ahVRXgrFng/viewform" target="_blank">here</a>
-- You will receive an email to join the hackathon's slack workspace. Teams will be formed oganically through conversations in this workspace.  
+- You will receive an email to join the hackathon's slack workspace. Teams will be formed organically through conversations in this workspace.  
 
 _Registrations open until 5:00 pm PST on 12th June._ 
 
