@@ -8,7 +8,7 @@ June 13th and 14th, 2020.<br/>
 This is a virtual event. Teams will work together throughout the 2-day event using tools such as Github, Zoom, and Slack.<br/>
 
 **Online zoom meeting ID: 940 8345 1381**<br/>
-**Zoom link:https://washington.zoom.us/j/94083451381**
+**Zoom link: https://washington.zoom.us/j/94083451381**
 
 ### Steps to participate in the hackathon
 
