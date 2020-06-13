@@ -108,7 +108,7 @@ Submissions should be in the form of a link to the github repository containing 
  - 10:00 am - 11:00 am: Event kickoff 
  - 11:00 am - 12:00 pm: Intro to NLP (optional)
  - 12:00 pm - 12:45 pm: Intro to Time-Series (optional)
- - 5:00 pm: Virtual dinner and dialouge<br/>
+ - 5:00 pm: Virtual dinner and dialogue<br/>
  
 **Day 2 (Sunday June 14th):** 
  - 10.30 am: Check-in 
