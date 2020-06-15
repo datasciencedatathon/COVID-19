@@ -1,3 +1,4 @@
+
 ### COVID-19 Hackathon
 
 Have you found yourself wondering how you can play a part in combating COVID-19 recently, all from the comforts of your home? Ponder no more! In response to the current events, the **University of Washington's MSDS students and alumni** proudly present the first ever online Data Science Hackathon, **sponsored by** <a href="https://www.washington.edu/datasciencemasters/" target="_blank"><b>UW MSDS</b></a>. Come join us and help the efforts of the open source community and ongoing research by putting your Data Science caps on!
@@ -124,3 +125,55 @@ Sepideh(Sepi) Dibay: dibay@uw.edu <br/>
 Deepthi Hegde: dhegde@uw.edu
 
 _Please contact us if you have any questions regarding this event._
+
+
+### Hackathon Project Repositories
+
+ - [COVID Ninjas](https://github.com/data-science-hackathon/Covid19-Hackathon)
+	 - Kush Tekriwal
+	 -  Mansi Rathod
+	 - Ankita Pal
+	 -  Vikas Kini
+ - [Java's Just Coffee](https://github.com/data-science-hackathon/covid-visualization)
+	 - Apoorv Sharma
+	 - Sai Muktevi
+	 - Juhi Choubey
+	 - Sandeep Tiwari
+ - [CuriousDuo](https://github.com/data-science-hackathon/COVID-19-Hackathon-1)
+	 - Vishwa Pardeshi
+	 - Varun Nair
+ - [JETW](https://github.com/data-science-hackathon/covid_hackathon)
+	 - Emma Lanier
+	 - Tommy Chen
+	 - Jason
+	 - Wanyu Guan
+ - [Weekend Warriors](https://github.com/data-science-hackathon/Covid_Weekend_Project)
+	 - Himanshu Chandra
+	 - Taufeeq Rahmani
+	 - Samarth Raizada
+ - [Yanran Cui](https://github.com/data-science-hackathon/COVID-19-Hackathon-2)
+	 - Yanran Cui
+ - [Liem Luong](https://github.com/data-science-hackathon/COVID-19-Hackathon-3)
+	 - Liem Luong
+ - [MASC off](https://github.com/data-science-hackathon/Covid19Hackathon)
+	 - Marc Mascarenhas
+	 - Aaron Alphonsus
+	 - Shashwati Shradha
+	 -  Chang Xu
+ - [JiaLiDun](https://github.com/data-science-hackathon/covid_hackathon_visualization)
+	 - Xiaolu Qian
+	 - Jeffrey Lai
+	 - Jiyu Wang
+ - [coronaWHYrus](https://github.com/data-science-hackathon/UW-Covid-19-Datathon)
+	 - Mayur Gupta
+	 - Harini Ram Prasad
+	 - Preetham Paul
+ - [the unpredictables](https://github.com/data-science-hackathon/Covid19-Hackathon-1)
+	 - Sam Sarmad
+	 - Andrew Zhou
+	 - Nalani Chun
+ - [The Doctors](https://github.com/data-science-hackathon/covid-19-hackathon-4)
+	 - Vishwas Uppoor
+	 - Anjana
+ - 404NotFound
+	 - Sumit Banik
