@@ -175,5 +175,3 @@ _Please contact us if you have any questions regarding this event._
  - [The Doctors](https://github.com/data-science-hackathon/covid-19-hackathon-4)
 	 - Vishwas Uppoor
 	 - Anjana
- - 404NotFound
-	 - Sumit Banik
